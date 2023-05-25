@@ -1,6 +1,6 @@
 # 100Devs Class 04 HW
 
-![Reference Photo Give to us to replicate ](referencePhoto.png)
+![Reference Photo Give to us to replicate ](referencePhoto.png) - Reference Photo
 
 ## Table of contents
 
@@ -25,7 +25,7 @@ Duplicate a webpage based on the reference picture provided using HTML and CSS.
 
 ### Screenshot
 
-![Finished Project](finishedProduct.PNG)
+![Finished Project](finishedProduct.PNG) - Finished project
 
 ## My process
 
