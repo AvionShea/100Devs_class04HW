@@ -29,7 +29,7 @@ Duplicate a webpage based on the reference picture provided using HTML and CSS.
 
 ## My process
 
-Looked at the reference picture provided and determined what elements were needed. I built out the HTML based on what elements I thought were in use such as a H1, footer, span, paragraphs, etc. Once the HTML was fully built out, I focused on going back through the HTML to determine if certain elements need classes and/or IDs. Afterwards, I turned my attention to the CSS portion. Although, I am not comformtable with positioning portion of CSS, I did a good job with the placement of the overall project based on the image provided.
+I looked at the reference picture provided and determined what elements were needed. I built out the HTML based on what elements I thought were in use such as an H1, footer, span, paragraphs, etc. Once the HTML was fully built out, I focused on going back through the HTML to determine if certain elements needed classes and/or IDs. Afterward, I turned my attention to the CSS portion. Although I am not comfortable with the positioning portion of CSS, I did a good job with the placement of the overall project based on the image provided.
 
 ### Built with
 
@@ -42,7 +42,7 @@ Looked at the reference picture provided and determined what elements were neede
 - Usage of specificity
 - CSS Selections
 
-I particularly proud of the position of the image. It's simple, but was done without the usage of the MDN or any reference other than eyeing the picture given to us.
+I am particularly proud of the position of the image. It's simple, but it was done without using the MDN or any reference other than eyeing the picture given to us.
 
 ```css
 .img {
@@ -63,7 +63,7 @@ Things I will continue to focus on:
 
 ### Useful resources
 
-- [MDN](https://developer.mozilla.org/en-US/) - Give explanations and examples. Great resource for all.
+- [MDN](https://developer.mozilla.org/en-US/) - Give explanations and examples. A great resource for all.
 - [Class 04](https://www.youtube.com/watch?v=Q1Obtn29twk&list=PLBf-QcbaigsJysJ-KFZvLGJvvW-3sfk1S&index=5) - First class for CSS basics.
 
 ## Author
